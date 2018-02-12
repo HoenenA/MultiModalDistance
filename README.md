@@ -13,3 +13,8 @@ Cutler, A., W., A., Smits, R., and Cooper, N. (2004). Patterns of English phonem
 
 Wiley, R. W., Wilson, C., and Rapp, B. (2016). The effects of alphabet and expertise on letter perception. Journal of
 Experimental Psychology: Human Perception and Performance, 42(8):1186–1203.
+
+# Citation
+If you intend to use this data, please cite:
+
+Armin Hoenen. (2018) Multi Modal Distance - An Approach to Stemma Generation with Weighting. In: Calzolari et al. (Eds.) Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). ELRA.
