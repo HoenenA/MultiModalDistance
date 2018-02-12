@@ -1,5 +1,5 @@
 # MultiModalDistance
-Provides distance matrices of letter confusion for the Latin alphabet from papers compared by Müller & Weidemann (2011) adn deducted from Wiley et al (2016) for Farsi.
+Provides distance matrices of letter confusion for the Latin alphabet from papers compared by Müller & Weidemann (2011) and deducted from Wiley et al (2016) for Farsi.
 Additionally, for acoustics via letters, phoneme-grapheme mappings for English, French, Finnish and Farsi. 
 
 # Files
